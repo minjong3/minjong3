@@ -3,12 +3,12 @@
 
 
 
-저는 인공지능 개발자입니다.
+저는 데이터 엔지니어입니다.
 
 
 
 ***
-- Mail : hoplk4152@gmail.com
+- Mail : hoplk4153@naver.com
 ***
 
 <!--
