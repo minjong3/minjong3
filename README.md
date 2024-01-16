@@ -13,7 +13,30 @@
 *링크를 클릭하면 프로젝트에 대한 자세한 설명이 포함된 GitHub 저장소로 이동합니다.
 
 ### Skills
-![Static Badge](https://img.shields.io/badge/Python-%233B66BC) ![Static Badge](https://img.shields.io/badge/MySQL-%233B66BC)
+
+![Static Badge](https://img.shields.io/badge/Python-%23003057) ![Static Badge](https://img.shields.io/badge/MySQL-%23003057) ![Static Badge](https://img.shields.io/badge/MongoDB-%23003057) ![Static Badge](https://img.shields.io/badge/PostgreSQL-%23003057) ![Static Badge](https://img.shields.io/badge/AWS%20S3-%23003057) ![Static Badge](https://img.shields.io/badge/AWS%20EMR-%23003057) ![Static Badge](https://img.shields.io/badge/AWS%20EC2-%23003057) ![Static Badge](https://img.shields.io/badge/AWS%20Quicksight-%23003057) ![Static Badge](https://img.shields.io/badge/AWS%20Athena-%23003057) ![Static Badge](https://img.shields.io/badge/Docker%20-%23003057) ![Static Badge](https://img.shields.io/badge/Kubernetes%20-%23003057) ![Static Badge](https://img.shields.io/badge/Grafana%20-%23003057) ![Static Badge](https://img.shields.io/badge/Streamlit%20-%23003057) ![Static Badge](https://img.shields.io/badge/Flask%20-%23003057) ![Static Badge](https://img.shields.io/badge/Apache%20Airflow%20-%23003057) ![Static Badge](https://img.shields.io/badge/Apache%20Spark%20-%23003057) ![Static Badge](https://img.shields.io/badge/Apache%20Hadoop%20-%23003057) ![Static Badge](https://img.shields.io/badge/LSTM%20-%23003057) ![Static Badge](https://img.shields.io/badge/LGBM%20-%23003057) ![Static Badge](https://img.shields.io/badge/XG%20Boost%20-%23003057)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
 
 
 
