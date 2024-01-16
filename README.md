@@ -13,8 +13,9 @@
 *링크를 클릭하면 프로젝트에 대한 자세한 설명이 포함된 GitHub 저장소로 이동합니다.
 
 ### Skills
+https://img.shields.io/badge/Python-%233B66BC
 
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:packageName)
+
 
 ***
 - Mail : hoplk4153@naver.com
