@@ -13,7 +13,8 @@
 *링크를 클릭하면 프로젝트에 대한 자세한 설명이 포함된 GitHub 저장소로 이동합니다.
 
 ### Skills
-![Static Badge](https://img.shields.io/badge/Python-%233B66BC)
+![Static Badge](https://img.shields.io/badge/Python-%233B66BC)![Static Badge](https://img.shields.io/badge/MySQL-%233B66BC)
+
 
 
 
