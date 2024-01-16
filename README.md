@@ -1,14 +1,24 @@
-# 신민종의 깃허브
-----------------
 
 
+## 신민종, 데이터 엔지니어입니다.
 
-저는 데이터 엔지니어입니다.
+- 안정적으로 자동화된 데이터 파이프라인을 구축하기 위해 노력합니다.
+- 어떻게 데이터 사이언티스트나 데이터 에널리스트에게 효율적인 DB를 만들지 고민합니다.
 
+### Projects
 
+- H&M 데이터 파이프라인 구축   <a href="https://github.com/minjong3/project-team11">.[🔗 About]</a>
+- 코스피 주가 예측 서비스      <a href="https://github.com/minjong3/mlopspipeline">.[🔗 About]</a>
+
+*링크를 클릭하면 프로젝트에 대한 자세한 설명이 포함된 GitHub 저장소로 이동합니다.
+
+### Skills
+
+<img class="python-logo" src="/static/img/python-logo.png" alt="python™">
 
 ***
 - Mail : hoplk4153@naver.com
+- blog : https://minjong2-de.tistory.com/
 ***
 
 <!--
