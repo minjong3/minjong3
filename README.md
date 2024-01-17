@@ -7,7 +7,7 @@
 
 ### Projects
 
-- H&M 데이터 파이프라인 구축   <a href="https://github.com/yeardream-de-project-team11/project-team11">.[🔗 소개]</a>
+- H&M 데이터 파이프라인 구축   <a href="https://github.com/minjong3/HM-Data-pipline">.[🔗 소개]</a>
 - 코스피 주가 예측 서비스      <a href="https://github.com/minjong3/Stock-price-prediction-service">.[🔗 소개]</a>
 
 *링크를 클릭하면 프로젝트에 대한 자세한 설명이 포함된 GitHub 저장소로 이동합니다.
